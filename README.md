@@ -6,8 +6,8 @@ Dataset iris de sklearn
 <br/>
 Optimisation de l'hyper-paramètre K
 <br/>
-![GitHub Logo](/Images_data/dataset_stress.png)
+![GitHub Logo](Images_data/dataset_stress.png)
 <br/>
-![GitHub Logo](/Images_data/correlation_stress.png)
+![GitHub Logo](Images_data/correlation_stress.png)
 
 
