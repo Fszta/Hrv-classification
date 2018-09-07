@@ -8,6 +8,3 @@ Optimisation de l'hyper-paramètre K
 <br/>
 ![GitHub Logo](dataset_stress.png)
 <br/>
-![GitHub Logo](/Images_data/correlation_stress.png)
-
-
