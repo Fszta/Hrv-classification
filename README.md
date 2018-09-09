@@ -7,12 +7,13 @@
 </ul>
 <h2>Librairies</h2>
 <ul>
-  <li>Keras</li>
-  <li>Scikit-learn</li>
-  <li>Matplotlib</li>
-  <li>Seaborn</li>
-  <li>Matplotlib</li>
-  <li>Numpy</li>
+  <li>Keras==2.0.5</li>
+  <li>scikit-learn==0.19.1</li>
+  <li>h5py==2.7.1</li>
+  <li>seaborn==0.9.0</li>
+  <li>matplotlib==2.2.2</li>
+  <li>numpy==1.14.3</li>
+  
 </ul>
 <h2>Présentation du dataset</h2>
 <h3>4 features :</h4>
