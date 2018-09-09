@@ -14,8 +14,11 @@
   <li>Matplotlib</li>
   <li>Numpy</li>
 </ul>
+<h2>Visualisation du dataset</h2>
 
 ![GitHub Logo](/Images_data/dataset_stress.png)
 <br/>
+
+<h2>Matrice de corrélation des features</h2>
 
 ![GitHub Logo](/Images_data/correlation_stress.png)
