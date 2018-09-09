@@ -27,6 +27,8 @@
 <ul>
   <li>stress</li>
   <li>relax></li>
+</ul>
+
 <h2>Visualisation du dataset</h2>
 
 ![GitHub Logo](/Images_data/dataset_stress.png)
