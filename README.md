@@ -22,6 +22,11 @@
   <li>BSV</li>
   <li>SDNN</li>
 </ul>
+
+<h3>2 classes : </h3>
+<ul>
+  <li>stress</li>
+  <li>relax></li>
 <h2>Visualisation du dataset</h2>
 
 ![GitHub Logo](/Images_data/dataset_stress.png)
