@@ -14,6 +14,14 @@
   <li>Matplotlib</li>
   <li>Numpy</li>
 </ul>
+<h2>Présentation du dataset</h2>
+<h3>4 features :</h4>
+<ul>
+  <li>BPM </li>
+  <li>RMSSD </li>
+  <li>BSV</li>
+  <li>SDNN</li>
+</ul>
 <h2>Visualisation du dataset</h2>
 
 ![GitHub Logo](/Images_data/dataset_stress.png)
