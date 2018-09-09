@@ -27,7 +27,7 @@
 <h3>2 classes : </h3>
 <ul>
   <li>stress</li>
-  <li>relax></li>
+  <li>relax</li>
 </ul>
 
 <h2>Visualisation du dataset</h2>
