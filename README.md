@@ -1,10 +1,15 @@
 # Hrv-classification
 <h2>Comparaison de différents algorithme de classification pour le stress</h2>
 <ul>
-  <li>Réseau de neurones</li>
-  <li>K nearest neighbor</li>
-  <li>Support vector classification</li>
+  <li>Random forest</li>
+  <li>Knn</li>
+  <li>Gradboost</li>
+  <li>Adaboost</li>
+  <li>Xgboost</li>
+  <li>GaussianNB</li>
+  <li>Linear regression</li>
 </ul>
+
 <h2>Librairies</h2>
 <ul>
   <li>Keras==2.0.5</li>
@@ -37,4 +42,4 @@
 
 <h2>Matrice de corrélation des features</h2>
 
-![GitHub Logo](/Images_data/correlation_stress.png)
+![GitHub Logo](/Images_data/correlation.png)
